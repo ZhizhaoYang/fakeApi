@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 2 }
   ],
-  "Admin/Login":  [
+  "admin/login":  [
       { "data": { "id": 1, "success": true }}
     ]
 }
