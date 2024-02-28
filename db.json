@@ -10,5 +10,9 @@
 	],
   "profile": {
     "name": "typicode111"
-  }
+  },
+  "users": [
+    { "id": "admin", "pwd": "123456" },
+    { "id": "admin2", "pwd": "123456" }
+  ]
 }
