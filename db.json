@@ -8,11 +8,11 @@
 		{ "id": 1, "body": "some comment", "postId": 1 },
 		{ "id": 2, "body": "some comment", "postId": 2 }
 	],
-  "profile": {
-    "name": "typicode111"
-  },
-  "users": [
-    { "id": "admin", "pwd": "123456" },
-    { "id": "admin2", "pwd": "123456" }
-  ]
+	"profile": {
+		"name": "typicode111"
+	},
+	"users": [
+		{ "id": "admin", "pwd": "123456" },
+		{ "id": "admin2", "pwd": "123456" }
+	]
 }
